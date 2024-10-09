@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ertyman5 aka Leonardo Morgado.
 - 👀 TCG Player/Collector on the side and a casual padel player on the weekend.
-- 🌱 I’m currently learning Full Stack JavaScript.
 - 📫 You can reach me by email: morgaleo@gmail.com
 
 <!---
